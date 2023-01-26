@@ -18,7 +18,14 @@ export default function Home() {
       Hello world! 
     </h1>
 
-    
+    {/* --------------let use custom color  from extend in themes in tailwing.config*/}
+    <h1 className="bg-ateeq">
+      Hello world! 
+    </h1>
+
+    <h1 className="bg-aqeel">
+      Hello world! 
+    </h1>
     </div>
   )
 }
