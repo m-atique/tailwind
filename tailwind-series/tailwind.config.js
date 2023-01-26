@@ -9,12 +9,18 @@ module.exports = {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
+    
 
     extend: {
       colors:{
         ateeq:"#ff77e9",
         aqeel:"#565584"
-      }
+      },
+      screens:{
+        lg:'800px',
+        sm:"500px"
+      },
+      
     }
     
   },
