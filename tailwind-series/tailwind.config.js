@@ -1,4 +1,5 @@
 /** @type {import('tailwindcss').Config} */
+
 module.exports = {
   content: [
     "./app/**/*.{js,ts,jsx,tsx}",
@@ -20,6 +21,9 @@ module.exports = {
         lg:'800px',
         sm:"500px"
       },
+      fontFamily:{
+        myfont:['Bungee Spice']
+      }
       
     }
     

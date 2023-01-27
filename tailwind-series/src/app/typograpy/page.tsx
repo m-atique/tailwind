@@ -9,8 +9,8 @@ export default function Typograpy() {
    <h2 className="font-mono">This is Typograpy h1</h2>
    <h3 className="text-2xl">This is Typograpy h1</h3>
     <p className="text-sx">text with sx </p>
-    <p className="font-mono">text with google font </p>
-    <p className="">text with tailwing own fonts </p>   
+    <p className="font-myfont text-6xl">text with google font </p>
+    <p className=" underline decoration-wavy decoration-red-600 decoration-2 underline-offset-4">text with tailwing own fonts </p>   
    </div>
    
     </div>
