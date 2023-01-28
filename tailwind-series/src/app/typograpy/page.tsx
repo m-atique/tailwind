@@ -12,7 +12,17 @@ export default function Typograpy() {
     <p className="font-myfont text-6xl">text with google font </p>
     <p className=" underline decoration-wavy decoration-red-600 decoration-2 underline-offset-4">text with tailwing own fonts </p>   
    </div>
+
+   <div className="bg-yellow-200 leading-8">
+   <p>line height between two lines </p>
+   <p>line height between two lines </p>
+   <p>line height between two lines </p>
+    </div>
+    <div className="bg-green-200 ">
+   <p className="truncate">line is trucasdhajshdjsdhjkasdjkasdjasdassssssssdasdasldjklasjdklajskldajslkdjaslkdlaksdjlaksjdlkasjd dasdajshd asjdasljkda dasdjahsdjasd dasdlaskd dsadajhsdlasd dasdjhasldas dajdalsdhas dsajdasldhasd asjdhasdhsa dasjdhsalhd </p>
    
     </div>
+
+   </div>
 
     )}
