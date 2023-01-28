@@ -11,6 +11,7 @@ export default function Home() {
      
      <Link className ='rounded-lg  m-4 p-4 border-4 border-red-400 bg-blue-300' href='/spacing'>Spacing</Link>
      <Link className ='rounded-lg  m-4 p-4 border-4 border-red-400 bg-yellow-300' href='/flex'>Flex</Link>
+     <Link className ='rounded-lg  m-4 p-4 border-4 border-red-400 bg-sky-400' href='/grids'>Grids</Link>
     </div>
   )
 }
