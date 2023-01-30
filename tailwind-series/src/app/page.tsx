@@ -13,6 +13,8 @@ export default function Home() {
      <Link className ='rounded-lg  m-4 p-4 border-4 border-red-400 bg-yellow-300' href='/flex'>Flex</Link>
      <Link className ='rounded-lg  m-4 p-4 border-4 border-red-400 bg-sky-400' href='/grids'>Grids</Link>
      <Link className ='rounded-lg  m-4 p-4 border-4 border-red-400 bg-pink-400' href='/layout'>Layout</Link>
+     <Link className ='rounded-lg  m-4 p-4 border-4 border-red-400 bg-violet-400' href='/devide'>Devide and Rings</Link>
+   
     </div>
   )
 }
