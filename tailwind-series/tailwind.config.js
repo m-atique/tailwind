@@ -1,6 +1,8 @@
 /** @type {import('tailwindcss').Config} */
 
+
 module.exports = {
+  
   content: [
     "./app/**/*.{js,ts,jsx,tsx}",
     "./pages/**/*.{js,ts,jsx,tsx}",
@@ -17,6 +19,9 @@ module.exports = {
         ateeq:"#ff77e9",
         aqeel:"#565584"
       },
+     backgroundImage:{
+              myImage:`url('../public/img/img.png')`
+     },
       screens:{
         lg:'800px',
         sm:"500px"
