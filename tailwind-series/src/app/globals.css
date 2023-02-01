@@ -11,5 +11,11 @@
         font-family: 'Dancing Script', cursive;
 
     }
+    .select {
+        @apply  transition inline-block p-3 cursor-pointer  border-2  border-slate-200
+    }
+    .select ul li {
+        @apply hover:bg-slate-100
+    }
 }
 

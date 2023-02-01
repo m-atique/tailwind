@@ -16,6 +16,7 @@ export default function Home() {
      <Link className ='rounded-lg  m-4 p-4 border-4 border-red-400 bg-violet-400' href='/devide'>Devide and Rings</Link>
      <Link className ='rounded-lg  m-4 p-4 border-4 border-yellow-400 bg-violet-400' href='/filters'>Effect & Filters</Link>
      <Link className ='rounded-lg  m-4 p-4 border-4 border-blue-400' href='/animations'>Animations</Link>
+     <Link className ='rounded-lg  m-4 p-4 border-4 border-slate-400' href='/darkMode'>Dark Mode</Link>
    
     </div>
   )
