@@ -22,6 +22,7 @@ module.exports = {
      backgroundImage:{
               myImage:`url('../public/img/img.png')`
      },
+    
       screens:{
         lg:'800px',
         sm:"500px"
